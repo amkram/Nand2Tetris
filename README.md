@@ -1,2 +1,2 @@
 # Nand2Tetris
-Solutions for nand2tetris
+Solutions for http://www.nand2tetris.org
